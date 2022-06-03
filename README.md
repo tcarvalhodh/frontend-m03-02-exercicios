@@ -45,6 +45,9 @@ Aranha
 > Pagina `doutor-estranho.html'
 
 ![](./assets/doutor-estranho.png)
+
+[vídeo do projeto](https://youtu.be/mBfLsHI410o)
+
 </details>
 
 
