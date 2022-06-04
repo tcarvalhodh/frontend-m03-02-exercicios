@@ -3,7 +3,7 @@
 ### Front-End - Exercícios de HTML
 
 <details>
-<summary>1 - Observações</summary>
+<summary>1 - Observações</summary>asdfasdfasdfaf
 
 - Fazer o fork desse repositório
 - Clonar o repositório do fork
